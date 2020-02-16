@@ -35,9 +35,13 @@ Scripts Largos no --- es más rápido 10000 scripts de 300 líneas que un script
 
 No usar cualquier (execVM) tipo de llamada en NSE o NS a archivos ... usar solo call compile PreprocessFileLineNumbers para funciones.
 
-Si tienes que repetir varias veces una constante ... pre compilala:
+Si tienes que repetir varias veces una constante...
+pre compilala:
+
 #define CONSTANTE 2.5
+
 _a = 1 + CONSTANTE;
+
 diaglog _a; // esto es igual a 3.5 y 4 veces más rápido.
 
 Arrays:
