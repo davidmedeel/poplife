@@ -5,17 +5,26 @@
 Contenido:
 
 Parte cliente.
+
 Parte servidor.
+
 extDB 3.
+
 Archivo SQL para la creación de tablas.
+
 Fixes de lo que ha roto Bohemia tras mil parches.
+
 
 Que no incluye:
 
 Addons.
+
 Tutorial de cómo se monta un servidor.
+
 Tutorial de cómo se monta la DB.
+
 Servicio técnico.
+
 Source de los dialogs.
 
 ¿Porqué?
