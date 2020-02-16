@@ -17,7 +17,6 @@ Servicio técnico.
 Source de los dialogs.
 
 ¿Porqué?
-
 Los buenos nunca ganan pero os voy a dar la oportunidad de poder empezar ese proyecto que teneis pensado partiendo de esta base, sin tener que empezar de 0.
 
 Consejos:
