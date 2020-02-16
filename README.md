@@ -1,5 +1,3 @@
-﻿Descripción de github:
-
 - Todo Aqui Funciona --- Ahora el tema es que funcione bien ...
 
 Contenido:
@@ -53,7 +51,7 @@ Condicionales:
 No usar if () then {} else {} es preferible dos if () then {}.
 Dejar la pereza y evitar al máximo los && o los OR || ... Es más eficiente hacer varios if () then {}.
 
-Loops
+Loops:
 
 Evitar usar el comando while {} o for ... do ... en cambio usar for "_i" from x to x do {}.
 si no te da la cabeza o la lógica de tu script tiene por obligación que usar el while tendrá que ir al masterLoopHandler y en carga del HeadLessClient.
