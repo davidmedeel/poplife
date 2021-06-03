@@ -25,10 +25,6 @@ Servicio técnico.
 
 Source de los dialogs.
 
-¿Porqué?
-
-Los buenos nunca ganan pero os voy a dar la oportunidad de poder empezar ese proyecto que teneis pensado partiendo de esta base, sin tener que empezar de 0.
-
 Consejos:
 
 Scripts Largos no --- es más rápido 10000 scripts de 300 líneas que un script de 10000 líneas. HyperThreading ... 
